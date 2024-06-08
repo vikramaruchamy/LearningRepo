@@ -1,5 +1,8 @@
 # LearningRepo
 
+- [ ] Task list
+- [x] task list 2
+- [ ] task list 3
 
 | Task         | Status    |
 |--------------|-----------|
