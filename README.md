@@ -1,7 +1,9 @@
 # LearningRepo
 
-<ul>
-  <li><input type="checkbox" style="accent-color: green;"> Task 1</li>
-  <li><input type="checkbox" style="accent-color: green;" checked> Task 2 (completed)</li>
-  <li><input type="checkbox" style="accent-color: green;"> Task 3</li>
-</ul>
+```
+| Task         | Status    |
+|--------------|-----------|
+| Task 1       | :heavy_check_mark:      |
+| Task 2       | :white_check_mark:       |
+| Task 3       | :white_check_mark:       |
+```
